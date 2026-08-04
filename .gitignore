@@ -1,0 +1,16 @@
+# .gitignore
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Airflow
+airflow/logs/
+
+# Data files
+*.csv
+*.parquet
+
+# Secrets
+*.json
+*.key
