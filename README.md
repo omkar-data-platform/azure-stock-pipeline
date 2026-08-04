@@ -733,8 +733,8 @@ Batch jobs are idempotent — re-running produces identical results. Using `over
 
 ## 👤 Author
 
-**Your Name**
-Data Engineer | 2.5 years experience | Azure · Databricks · PySpark
+**Omkarnath Khilar**
+Data Engineer | 3 years experience | Azure · Databricks · PySpark
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/yourusername)
